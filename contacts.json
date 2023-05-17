@@ -1,0 +1,24 @@
+{
+    "contact": {
+      "firstName": "Derek",
+      "lastName": "Earl",
+      "email": "derek@gmail.com",
+      "favoriteColor": "Blue",
+      "birthday": "10/17/94"
+    },
+    "contact2": {
+      "firstName": "Hailee",
+      "lastName": "Earl",
+      "email": "hailee@gmail.com",
+      "favoriteColor": "Green",
+      "birthday": "04/07/98"
+    },
+    "contact3": {
+      "firstName": "Ryan",
+      "lastName": "Earl",
+      "email": "Ryan@gmail.com.com",
+      "favoriteColor": "Black",
+      "birthday": "11/16/85"
+    }
+  }
+  
